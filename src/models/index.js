@@ -1,0 +1,1 @@
+export { Robot_Tarot_GLTF_Flag_Cali_02 } from "./Robot_Tarot_GLTF_Flag_Cali_02"
