@@ -10,7 +10,7 @@ const App = () => {
         </div>
         <Highlights />
         <Works />
-        {/* <YouTubeVideo /> */}
+        <YouTubeVideo />
         <About />
         <Experience />
         <Feedbacks />
