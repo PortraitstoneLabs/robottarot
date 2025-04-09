@@ -149,15 +149,15 @@ const Hero = () => {
             </h1>
 
             <p className="mb-5 max-w-64 font-Roboto text-blue-100">
-              Enter the Psionic Gravitobiology Layer <br /> Unleash the Skywatcher Economy
+            "Stand for something or  <br /> fall for anything."
             </p>
 
             <Button
             id="watch-trailer"
-            title="Shrink your problems, grow your purpose"
+            title="Scavanger-Hunt"
             leftIcon={<TiLocationArrow />}
             containerClass="bg-yellow-300 flex-center gap-1"
-            link="https://customcomedy.org/" // Pass the link URL
+            link="https://www.youtube.com/@RobotTarot/" // Pass the link URL
             />
           </div>
         </div>
