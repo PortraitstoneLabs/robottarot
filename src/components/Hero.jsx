@@ -154,7 +154,7 @@ const Hero = () => {
 
             <Button
             id="watch-trailer"
-            title="Scavanger-Hunt"
+            title="Scavenger-Hunt"
             leftIcon={<TiLocationArrow />}
             containerClass="bg-yellow-300 flex-center gap-1"
             link="https://www.youtube.com/@RobotTarot/" // Pass the link URL
