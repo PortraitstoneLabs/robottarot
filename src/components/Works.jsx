@@ -73,8 +73,8 @@ const Works = () => {
     <>
     
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} `}>MDH</p>
-        <h2 className={`${styles.sectionHeadText}`}>Shamballa is a high-vibrational Reiki system channeled through The Count of Saint Germain.</h2>
+        <p className={`${styles.sectionSubText} `}>What more do you want?</p>
+        <h2 className={`${styles.sectionHeadText}`}>Quantum information is the representation of inner experience and the collapse of the wave function is the representation of the free will.</h2>
       </motion.div>
 
       <div className='w-full flex'>
@@ -82,7 +82,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          - Christ Consciousness
+          - Federico Faggin
         </motion.p>
       </div>
 
