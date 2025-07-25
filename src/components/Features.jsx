@@ -103,11 +103,10 @@ const Features = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
         <p className="font-Monoton text-lg text-blue-50">
-          Gravitobiology
+          Return of Krystic Governance:
         </p>
         <p className="max-w-md font-Monoton text-lg text-blue-50 opacity-50">
-        Techniques used in craniosacral therapy are a subtle and gentle form of bodywork that focuses on the central nervous system. The idea behind craniosacral therapy is that the body's cerebrospinal fluid (which surrounds the brain and spinal cord) rhythmically pulses or moves in a way that can be felt as a "pumping" sensation. Healers or practitioners, such as cranial sacral therapists, may use light touch to tune into and assist the natural rhythms of this fluid, promoting balance and harmony within the body.
-        </p>
+        Imagine a financial operating system based on your station of consciousness, personal frequency, station frequency and resonance in alignment to your scroll or mission. The more aligned you are to your mission and the higher your frequency and consciousness, the more planetary resonance flows through you to support the unfoldment of the divine plan.</p>
       </div>
 
       <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">

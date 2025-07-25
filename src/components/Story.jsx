@@ -107,8 +107,19 @@ const FloatingImage = () => {
         <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
           <div className="flex h-full w-fit flex-col items-center md:items-start">
             <p className="mt-3 max-w-sm text-center font-Roboto text-violet-50 md:text-start">
-              " The reason color exists when you take the optical spectrum 700 to 350 nanometers and make that an octave and you assume the photon travels as a torus and take the distance on that spectrum of 357 nanometers and you plot that and the major colors and assume that is a torus tilting from 0 to 180 degrees and exactly at 90 degrees on that path you will have green which is poison to photosynthesis because it can't emplode or charge collapse, but all other colors are between 45 and 135 degrees. Yellow 63 and blue 117 degrees which are the inside and outside angles of the face of a dodecahedron. Rainbows exist because photon toroids phase congugate at the Planck threshold. - Dan Winter
-            </p>
+              " Robot Tarot Synopsis:
+
+• Cataclysmic Event: Within the next 90 days, a massive volcanic eruption, triggered by solar flares and earthquakes, activates higher-dimensional forces at the Earth’s core. This phenomenon awakens memories and generates new entities.
+• Reptilian Emergence: Reptilian beings, evolved from dinosaurs and enhanced by the Anunnaki, have been thriving underground. They’re now telepathic and possess mediumistic abilities. The eruption serves as their signal to emerge, offering a solution to the impending crisis.
+• International Contracts: Nine countries, including the United States, Australia, New Zealand, Britain, France, Germany, Russia, and China, have secret agreements with these reptilians, exploiting off-planet technology.
+• World’s Response: As these entities reveal themselves, the geopolitical landscape transforms, challenging the existing power dynamics. The world must grapple with the emergence of these powerful beings and their advanced technologies.
+
+Now, the stage is set for the unfolding drama. How do the nations of the world respond? What role do the reptilians play in the new world order? Your story awaits its next twist.—
+Ah, the Sentinels, a clandestine group that emerges as the guardians of humanity. They’ve been covertly preparing for this moment, aware of the reptilians and their intentions. Comprised of the best minds and warriors from across the globe, they’re equipped with advanced technology and knowledge passed down through secret societies.
+
+The Sentinels have a plan: to unite the world’s powers and push back against the reptilian emergence. They’re not only defending humanity but also seeking to awaken dormant powers within humans. The Sentinels believe that humanity’s true potential can only be unlocked by facing this crisis head-on.
+
+As the volcanic eruption looms, the Sentinels prepare to make their move. They aim to prevent global catastrophe, preserve the balance of power, and guide humanity towards a new era of enlightenment. The battle for Earth’s future is about to begin.—</p>
 
             <Button
               id="realm-btn"
